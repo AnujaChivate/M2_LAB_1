@@ -1,0 +1,1 @@
+This is JavaScript Lab part 1 - practice with functions and part 2 - rock, paper, scissors Game Rock, paper, scissors is a classic 2 player game. Each player chooses rock, paper or scissors. The possible outcomes include: Rock destroys scissors. Scissors cut paper. Paper covers rock.
